@@ -1,0 +1,49 @@
+
+        
+========================================
+        BUSINESS MANAGEMENT REPORT
+========================================
+
+KEY PERFORMANCE INDICATORS
+----------------------------------------
+    
+Total Sales     : ₹715,000.00
+
+Total Profit    : ₹117,000.00
+
+Total Quantity  : 36
+
+Average Sale    : ₹102,142.86
+
+Profit Margin   : 16.36%
+
+
+BUSINESS HIGHLIGHTS
+----------------------------------------
+
+Best Product  :Laptop
+
+Best Region   :North
+
+
+PRODUCT PERFORMANCE
+----------------------------------------
+
+           sales  quantity  profit
+product                           
+Laptop    625000        12   50000
+Mouse      60000        13    4500
+Keyboard   30000        11   62500
+
+
+REGION PERFORMANCE
+----------------------------------------
+
+         sales  profit
+region                
+North   560000   40500
+West    155000   76500
+
+========================================
+              END OF REPORT
+========================================
